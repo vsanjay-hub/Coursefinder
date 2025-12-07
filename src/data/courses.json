@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Introduction to React",
+    "category": "Web Development",
+    "description": "Learn the fundamentals of React including components, props, state, and hooks.",
+    "duration": "8 weeks",
+    "level": "Beginner",
+    "instructor": "Sarah Johnson"
+  },
+  {
+    "id": 2,
+    "name": "Advanced JavaScript",
+    "category": "Programming",
+    "description": "Deep dive into ES6+, async programming, closures, and modern JavaScript patterns.",
+    "duration": "10 weeks",
+    "level": "Advanced",
+    "instructor": "Michael Chen"
+  },
+  {
+    "id": 3,
+    "name": "UI/UX Design Principles",
+    "category": "Design",
+    "description": "Master the art of creating intuitive and beautiful user interfaces and experiences.",
+    "duration": "6 weeks",
+    "level": "Intermediate",
+    "instructor": "Emma Davis"
+  },
+  {
+    "id": 4,
+    "name": "Node.js Backend Development",
+    "category": "Web Development",
+    "description": "Build scalable server-side applications with Node.js, Express, and MongoDB.",
+    "duration": "12 weeks",
+    "level": "Intermediate",
+    "instructor": "James Wilson"
+  },
+  {
+    "id": 5,
+    "name": "Python for Data Science",
+    "category": "Data Science",
+    "description": "Learn Python programming with focus on data analysis, pandas, and visualization.",
+    "duration": "10 weeks",
+    "level": "Beginner",
+    "instructor": "Dr. Lisa Anderson"
+  },
+  {
+    "id": 6,
+    "name": "Mobile App Development with React Native",
+    "category": "Mobile Development",
+    "description": "Create cross-platform mobile applications using React Native framework.",
+    "duration": "9 weeks",
+    "level": "Intermediate",
+    "instructor": "Ryan Martinez"
+  },
+  {
+    "id": 7,
+    "name": "Machine Learning Fundamentals",
+    "category": "Data Science",
+    "description": "Introduction to ML algorithms, supervised and unsupervised learning concepts.",
+    "duration": "14 weeks",
+    "level": "Advanced",
+    "instructor": "Dr. Ahmed Hassan"
+  },
+  {
+    "id": 8,
+    "name": "CSS Grid and Flexbox Mastery",
+    "category": "Design",
+    "description": "Master modern CSS layout techniques for responsive web design.",
+    "duration": "4 weeks",
+    "level": "Beginner",
+    "instructor": "Sophie Taylor"
+  },
+  {
+    "id": 9,
+    "name": "DevOps and CI/CD",
+    "category": "DevOps",
+    "description": "Learn Docker, Kubernetes, Jenkins, and modern deployment pipelines.",
+    "duration": "8 weeks",
+    "level": "Advanced",
+    "instructor": "Carlos Rodriguez"
+  },
+  {
+    "id": 10,
+    "name": "Database Design and SQL",
+    "category": "Programming",
+    "description": "Comprehensive guide to relational databases, SQL queries, and optimization.",
+    "duration": "7 weeks",
+    "level": "Beginner",
+    "instructor": "Rachel Green"
+  }
+]
